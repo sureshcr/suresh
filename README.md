@@ -2,5 +2,6 @@
 this is my first repo in github
 ,editing my readme,md file on my laptop
 :practicing remote repo
-modiied by user 2
-jsgdsgfjbcJSGgakfjbcsh
+modiied by user2
+once upon a time lo
+a lovely scenerio
